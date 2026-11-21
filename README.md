@@ -1,5 +1,4 @@
-# Proyecto-4-curso-analisis-de-datos.
-Proyecto 4: Análisis de Impacto Estadístico e Inferencia para Políticas Públicas (Python).
+# Análisis de Impacto Estadístico e Inferencia para Políticas Públicas (Python).
 
 Realicé un estudio de estadística inferencial basado en metodologías del Ministerio de Educación comparando el rendimiento académico
 entre grupos de control y tratamiento en establecimientos de educación escolar.
